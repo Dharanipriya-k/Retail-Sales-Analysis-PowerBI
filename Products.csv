@@ -1,0 +1,51 @@
+Product ID,Product Name,Category,Subcategory,Brand,Unit Cost,Unit Price,Supplier,Stock
+PROD001,Wireless Mouse,Electronics,Accessories,Everyday,450,799,Prime Source,19
+PROD002,Bluetooth Speaker,Electronics,Audio,Aster,950,1599,Prime Source,85
+PROD003,USB-C Cable,Electronics,Accessories,BrightWay,90,199,NorthStar Traders,23
+PROD004,Power Bank,Electronics,Accessories,BrightWay,650,1099,CityMart Distributors,117
+PROD005,Headphones,Electronics,Audio,Aster,800,1399,NorthStar Traders,133
+PROD006,Notebook,Stationery,Paper,Aster,35,69,CityMart Distributors,26
+PROD007,Ball Pen Pack,Stationery,Writing,Nova,45,89,Greenline Supply,163
+PROD008,Desk Organizer,Stationery,Office,Everyday,120,229,NorthStar Traders,40
+PROD009,Water Bottle,Home & Kitchen,Drinkware,UrbanLeaf,140,299,Prime Source,170
+PROD010,Lunch Box,Home & Kitchen,Storage,PrimeChoice,180,349,Prime Source,190
+PROD011,Storage Container Set,Home & Kitchen,Storage,UrbanLeaf,260,499,CityMart Distributors,160
+PROD012,LED Bulb,Home & Kitchen,Lighting,PrimeChoice,75,149,Greenline Supply,124
+PROD013,Cotton T-Shirt,Fashion,Apparel,PrimeChoice,220,499,Prime Source,118
+PROD014,Denim Jeans,Fashion,Apparel,Nova,650,1299,NorthStar Traders,226
+PROD015,Sports Shoes,Fashion,Footwear,Aster,900,1799,Prime Source,192
+PROD016,Backpack,Fashion,Bags,Everyday,550,999,CityMart Distributors,123
+PROD017,Face Wash,Beauty,Skincare,Everyday,95,199,CityMart Distributors,94
+PROD018,Moisturizer,Beauty,Skincare,BrightWay,180,349,CityMart Distributors,114
+PROD019,Shampoo,Beauty,Haircare,Aster,130,249,NorthStar Traders,88
+PROD020,Sunscreen,Beauty,Skincare,BrightWay,210,399,Greenline Supply,178
+PROD021,Yoga Mat,Sports,Fitness,UrbanLeaf,350,699,Greenline Supply,47
+PROD022,Skipping Rope,Sports,Fitness,Aster,90,199,CityMart Distributors,25
+PROD023,Cricket Bat,Sports,Outdoor,Nova,700,1299,NorthStar Traders,31
+PROD024,Cookware Set,Home & Kitchen,Kitchenware,BrightWay,1100,1999,NorthStar Traders,198
+PROD025,Table Lamp,Home & Kitchen,Lighting,Aster,420,799,Greenline Supply,215
+PROD026,Smart Watch,Electronics,Wearables,Everyday,1500,2499,Prime Source,23
+PROD027,Mobile Stand,Electronics,Accessories,PrimeChoice,110,249,Prime Source,151
+PROD028,Wallet,Fashion,Accessories,UrbanLeaf,180,399,NorthStar Traders,113
+PROD029,Sunglasses,Fashion,Accessories,UrbanLeaf,250,599,CityMart Distributors,230
+PROD030,Hair Oil,Beauty,Haircare,Aster,85,169,NorthStar Traders,81
+PROD031,Hand Cream,Beauty,Skincare,PrimeChoice,70,149,Greenline Supply,98
+PROD032,Travel Mug,Home & Kitchen,Drinkware,Nova,230,449,Prime Source,137
+PROD033,Extension Board,Electronics,Accessories,Everyday,300,599,Metro Wholesale,176
+PROD034,File Folder Set,Stationery,Office,BrightWay,60,129,Metro Wholesale,224
+PROD035,Highlighter Set,Stationery,Writing,Nova,55,119,Greenline Supply,224
+PROD036,Resistance Band,Sports,Fitness,PrimeChoice,160,329,Greenline Supply,37
+PROD037,Badminton Racket,Sports,Outdoor,UrbanLeaf,480,899,Prime Source,65
+PROD038,Bedsheet,Home & Kitchen,Furnishing,BrightWay,500,999,Prime Source,204
+PROD039,Cushion Cover,Home & Kitchen,Furnishing,PrimeChoice,120,249,Prime Source,180
+PROD040,Perfume,Beauty,Fragrance,Aster,400,799,Prime Source,14
+PROD041,Face Serum,Beauty,Skincare,PrimeChoice,320,649,Greenline Supply,15
+PROD042,Casual Shirt,Fashion,Apparel,Everyday,450,899,Greenline Supply,187
+PROD043,Socks Pack,Fashion,Apparel,UrbanLeaf,100,229,Greenline Supply,97
+PROD044,Portable Fan,Electronics,Appliances,Nova,500,999,Metro Wholesale,230
+PROD045,Electric Kettle,Home & Kitchen,Appliances,Everyday,750,1399,Prime Source,176
+PROD046,Drawing Book,Stationery,Paper,BrightWay,50,99,NorthStar Traders,44
+PROD047,Pencil Box,Stationery,Writing,Aster,80,169,NorthStar Traders,31
+PROD048,Dumbbell Pair,Sports,Fitness,Aster,850,1499,Prime Source,63
+PROD049,Hand Towel Set,Home & Kitchen,Furnishing,BrightWay,190,379,CityMart Distributors,124
+PROD050,Makeup Pouch,Beauty,Accessories,UrbanLeaf,130,279,Metro Wholesale,102

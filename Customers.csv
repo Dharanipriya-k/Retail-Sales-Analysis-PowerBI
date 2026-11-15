@@ -1,0 +1,201 @@
+Customer ID,Customer Name,Gender,Age,City,State,Region,Membership,Join Date
+CUST0001,Aarav Joshi,Male,33,Chennai,Tamil Nadu,South,Regular,2022-07-29
+CUST0002,Ishaan Singh,Male,20,Kolkata,West Bengal,East,Regular,2023-03-24
+CUST0003,Sanjay Singh,Female,53,Hyderabad,Telangana,South,Regular,2025-08-23
+CUST0004,Sneha Reddy,Male,55,Kolkata,West Bengal,East,Regular,2022-01-14
+CUST0005,Sneha Das,Male,27,Bengaluru,Karnataka,South,Regular,2023-11-21
+CUST0006,Ishaan Nair,Female,40,Chennai,Tamil Nadu,South,Gold,2025-05-21
+CUST0007,Diya Joshi,Male,52,Mumbai,Maharashtra,West,Regular,2024-02-15
+CUST0008,Aditi Kumar,Other,57,Chennai,Tamil Nadu,South,Gold,2024-01-11
+CUST0009,Arjun Joshi,Female,20,Bhubaneswar,Odisha,East,Silver,2023-08-16
+CUST0010,Kavya Iyer,Male,35,Chennai,Tamil Nadu,South,Silver,2024-01-18
+CUST0011,Nisha Das,Female,60,Bengaluru,Karnataka,South,Regular,2025-10-31
+CUST0012,Pooja Menon,Female,52,Chennai,Tamil Nadu,South,Silver,2022-12-01
+CUST0013,Rahul Kumar,Other,62,Jaipur,Rajasthan,North,Silver,2025-11-03
+CUST0014,Diya Reddy,Female,38,Pune,Maharashtra,West,Regular,2022-05-16
+CUST0015,Vikram Joshi,Male,31,Hyderabad,Telangana,South,Silver,2024-03-21
+CUST0016,Rohan Kumar,Female,33,Jaipur,Rajasthan,North,Gold,2025-01-08
+CUST0017,Vikram Nair,Other,43,Mumbai,Maharashtra,West,Regular,2022-10-11
+CUST0018,Divya Iyer,Female,25,Kolkata,West Bengal,East,Regular,2022-11-24
+CUST0019,Pooja Iyer,Male,42,Delhi,Delhi,North,Silver,2024-08-16
+CUST0020,Vivaan Rao,Female,61,Kolkata,West Bengal,East,Silver,2025-10-28
+CUST0021,Vivaan Menon,Male,25,Kolkata,West Bengal,East,Regular,2022-11-20
+CUST0022,Aarav Joshi,Other,34,Jaipur,Rajasthan,North,Platinum,2023-01-01
+CUST0023,Ananya Menon,Male,58, KOLKATA ,West Bengal,East,Silver,2023-02-12
+CUST0024,Nisha Patel,Other,67,Bengaluru,Karnataka,South,Gold,2022-01-02
+CUST0025,Aditya Gupta,Female,25,Bhubaneswar,Odisha,East,Gold,2023-09-22
+CUST0026,Diya Reddy,Other,23,Hyderabad,Telangana,South,Regular,2024-09-22
+CUST0027,Aditi Patel,Female,60,Chennai,Tamil Nadu,South,Silver,2025-01-30
+CUST0028,Vivaan Rao,Other,45,Bengaluru,Karnataka,South,Platinum,2025-01-09
+CUST0029,Priya Nair,Other,59, HYDERABAD ,Telangana,South,Regular,2024-11-25
+CUST0030,Ananya Reddy,Female,22, JAIPUR ,Rajasthan,North,Regular,2025-04-19
+CUST0031,Kavya Singh,Female,18,Kolkata,West Bengal,East,Regular,2025-07-16
+CUST0032,Kavya Iyer,Female,39,Coimbatore,Tamil Nadu,South,Regular,2023-05-03
+CUST0033,Divya Reddy,Other,26,Mumbai,Maharashtra,West,Silver,2025-03-15
+CUST0034,Divya Reddy,Male,44,Bhubaneswar,Odisha,East,Regular,2022-07-18
+CUST0035,Nisha Nair,Male,47,Delhi,Delhi,North,Gold,2022-04-21
+CUST0036,Diya Nair,Other,39,Chennai,Tamil Nadu,South,Gold,2022-08-12
+CUST0037,Arjun Reddy,Other,46,Hyderabad,Telangana,South,Regular,2023-01-11
+CUST0038,Karthik Reddy,Female,46,Mumbai,Maharashtra,West,Gold,2025-02-01
+CUST0039,Diya Menon,Other,18,Chennai,Tamil Nadu,South,Platinum,2023-04-30
+CUST0040,Sneha Gupta,Male,31,Bengaluru,Karnataka,South,Gold,2022-05-01
+CUST0041,Rahul Sharma,Male,34,Bengaluru,Karnataka,South,Gold,2024-07-20
+CUST0042,Sneha Joshi,Other,68,Mumbai,Maharashtra,West,Silver,2026-01-11
+CUST0043,Rohan Reddy,Male,31,Jaipur,Rajasthan,North,Platinum,2025-04-01
+CUST0044,Diya Joshi,Male,21,Kolkata,West Bengal,East,Regular,2024-09-03
+CUST0045,Sanjay Patel,Female,50,Kolkata,West Bengal,East,Regular,2023-01-16
+CUST0046,Pooja Iyer,Other,33,Chennai,Tamil Nadu,South,Regular,2025-03-12
+CUST0047,Vikram Singh,Female,57,Hyderabad,Telangana,South,Regular,2025-09-08
+CUST0048,Vikram Rao,Male,34,Bhubaneswar,Odisha,East,Regular,2026-01-06
+CUST0049,Kavya Kumar,Male,26,Pune,Maharashtra,West,Silver,2023-09-07
+CUST0050,Aditya Iyer,Female,47,Jaipur,Rajasthan,North,Silver,2025-02-27
+CUST0051,Ishaan Rao,Female,50,Chennai,Tamil Nadu,South,Regular,2023-12-16
+CUST0052,Kavya Das,Male,28,Chennai,Tamil Nadu,South,Regular,2025-01-17
+CUST0053,Pooja Menon,Other,18,Mumbai,Maharashtra,West,Silver,2025-02-09
+CUST0054,Ananya Patel,Male,25,Mumbai,Maharashtra,West,Gold,2025-02-07
+CUST0055,Vivaan Kumar,Other,31,Bengaluru,Karnataka,South,Silver,2023-02-21
+CUST0056,Sanjay Gupta,Male,21,Mumbai,Maharashtra,West,Regular,2024-05-17
+CUST0057,Diya Sharma,Male,67,Mumbai,Maharashtra,West,Regular,2023-06-21
+CUST0058,Karthik Rao,Other,45,Bengaluru,Karnataka,South,Silver,2022-08-18
+CUST0059,Rohan Rao,Female,41,Chennai,Tamil Nadu,South,Silver,2022-10-31
+CUST0060,Rohan Sharma,Male,41,Delhi,Delhi,North,Gold,2022-03-23
+CUST0061,Arjun Menon,Female,60,Pune,Maharashtra,West,Regular,2025-02-20
+CUST0062,Pooja Joshi,Female,33,Delhi,Delhi,North,Gold,2022-12-29
+CUST0063,Aarav Patel,Other,39,Delhi,Delhi,North,Gold,2024-04-23
+CUST0064,Vivaan Patel,Other,24,Hyderabad,Telangana,South,Regular,2022-03-21
+CUST0065,Kavya Reddy,Male,40,Jaipur,Rajasthan,North,Regular,2023-04-12
+CUST0066,Aarav Menon,Female,43,Hyderabad,Telangana,South,Regular,2022-05-23
+CUST0067,Nisha Menon,Other,43,Mumbai,Maharashtra,West,Silver,2025-01-03
+CUST0068,Aarav Iyer,Male,29,Pune,Maharashtra,West,Silver,2023-06-28
+CUST0069,Ananya Singh,Male,40,Coimbatore,Tamil Nadu,South,Silver,2023-10-05
+CUST0070,Pooja Rao,Female,42,Delhi,Delhi,North,Gold,2023-01-25
+CUST0071,Diya Joshi,Male,18,Mumbai,Maharashtra,West,Silver,2025-01-07
+CUST0072,Nisha Nair,Female,60,Hyderabad,Telangana,South,Gold,2025-06-30
+CUST0073,Ananya Joshi,Male,50,Pune,Maharashtra,West,Regular,2024-04-16
+CUST0074,Rahul Joshi,Male,53,Pune,Maharashtra,West,Regular,2024-05-11
+CUST0075,Meera Singh,Other,37, DELHI ,Delhi,North,Regular,2022-01-01
+CUST0076,Priya Reddy,Male,68,Mumbai,Maharashtra,West,Silver,2025-09-02
+CUST0077,Karthik Gupta,Male,61,Pune,Maharashtra,West,Regular,2024-08-27
+CUST0078,Ishaan Kumar,Other,60,Bengaluru,Karnataka,South,Silver,2023-11-18
+CUST0079,Kavya Menon,Male,32,Chennai,Tamil Nadu,South,Gold,2022-10-29
+CUST0080,Diya Reddy,Male,57,Coimbatore,Tamil Nadu,South,Gold,2022-05-30
+CUST0081,Sneha Menon,Other,30,Jaipur,Rajasthan,North,Silver,2024-02-26
+CUST0082,Rahul Reddy,Female,59,Jaipur,Rajasthan,North,Silver,2022-08-07
+CUST0083,Kavya Patel,Other,51,Delhi,Delhi,North,Silver,2025-02-15
+CUST0084,Ananya Gupta,Female,47,Hyderabad,Telangana,South,Silver,2025-02-18
+CUST0085,Aditya Gupta,Other,64,Bhubaneswar,Odisha,East,Gold,2024-05-23
+CUST0086,Karthik Patel,Other,48,Kolkata,West Bengal,East,Silver,2023-05-22
+CUST0087,Sanjay Gupta,Other,33,Mumbai,Maharashtra,West,Regular,2022-06-08
+CUST0088,Kavya Kumar,Male,38,Mumbai,Maharashtra,West,Gold,2022-06-15
+CUST0089,Rohan Reddy,Male,62,Bengaluru,Karnataka,South,Regular,2023-03-15
+CUST0090,Sneha Nair,Male,52,Chennai,Tamil Nadu,South,Silver,2022-05-08
+CUST0091,Sneha Nair,Other,62,Hyderabad,Telangana,South,Regular,2025-03-25
+CUST0092,Divya Sharma,Male,37,Delhi,Delhi,North,Gold,2024-05-08
+CUST0093,Aditi Singh,Female,49,Kolkata,West Bengal,East,Regular,2024-06-11
+CUST0094,Aarav Nair,Male,60,Jaipur,Rajasthan,North,Silver,2024-04-08
+CUST0095,Karthik Patel,Other,52,Bengaluru,Karnataka,South,Regular,2024-03-17
+CUST0096,Vikram Menon,Female,23,Bhubaneswar,Odisha,East,Silver,2022-10-05
+CUST0097,Meera Sharma,Male,42,Jaipur,Rajasthan,North,Regular,2024-07-20
+CUST0098,Aditya Nair,Male,66,Pune,Maharashtra,West,Platinum,2024-05-13
+CUST0099,Ishaan Gupta,Female,65,Mumbai,Maharashtra,West,Silver,2023-12-18
+CUST0100,Ishaan Menon,Female,66,Hyderabad,Telangana,South,Regular,2023-05-22
+CUST0101,Aarav Singh,Female,33,Hyderabad,Telangana,South,Regular,2025-10-03
+CUST0102,Vikram Reddy,Male,62,Chennai,Tamil Nadu,South,Regular,2024-01-26
+CUST0103,Pooja Singh,Other,63,Bengaluru,Karnataka,South,Regular,2022-12-02
+CUST0104,Ananya Singh,Female,37,Mumbai,Maharashtra,West,Silver,2024-02-08
+CUST0105,Arjun Iyer,Other,62,Delhi,Delhi,North,Gold,2023-05-13
+CUST0106,Priya Menon,Other,25,Chennai,Tamil Nadu,South,Gold,2025-03-05
+CUST0107,Nisha Rao,Male,60,Coimbatore,Tamil Nadu,South,Regular,2024-11-02
+CUST0108,Aarav Nair,Male,24,Pune,Maharashtra,West,Regular,2024-01-12
+CUST0109,Rohan Nair,Female,64,Jaipur,Rajasthan,North,Silver,2025-08-25
+CUST0110,Pooja Rao,Male,47,Mumbai,Maharashtra,West,Regular,2026-02-06
+CUST0111,Vivaan Das,Female,23,Bhubaneswar,Odisha,East,Regular,2024-07-12
+CUST0112,Karthik Singh,Other,60,Hyderabad,Telangana,South,Regular,2022-02-28
+CUST0113,Aditya Patel,Male,31,Jaipur,Rajasthan,North,Regular,2023-06-14
+CUST0114,Vivaan Singh,Other,35,Pune,Maharashtra,West,Silver,2024-11-24
+CUST0115,Ishaan Reddy,Other,44,Hyderabad,Telangana,South,Silver,2023-05-08
+CUST0116,Divya Gupta,Female,23,Jaipur,Rajasthan,North,Regular,2024-04-08
+CUST0117,Priya Menon,Other,41,Hyderabad,Telangana,South,Silver,2024-12-23
+CUST0118,Sneha Joshi,Other,39,Pune,Maharashtra,West,Regular,2024-07-18
+CUST0119,Priya Kumar,Female,25,Mumbai,Maharashtra,West,Silver,2023-10-09
+CUST0120,Aditi Joshi,Female,30,Chennai,Tamil Nadu,South,Regular,2024-09-18
+CUST0121,Vikram Rao,Other,36,Mumbai,Maharashtra,West,Platinum,2023-02-02
+CUST0122,Kavya Das,Female,37,Mumbai,Maharashtra,West,Regular,2024-12-29
+CUST0123,Vivaan Sharma,Female,53,Bengaluru,Karnataka,South,Regular,2022-09-16
+CUST0124,Ananya Sharma,Other,36,Jaipur,Rajasthan,North,Silver,2024-06-21
+CUST0125,Meera Sharma,Male,48,Pune,Maharashtra,West,Regular,2022-05-14
+CUST0126,Divya Iyer,Other,58,Delhi,Delhi,North,Silver,2022-11-07
+CUST0127,Vikram Kumar,Female,33,Bengaluru,Karnataka,South,Regular,2024-05-02
+CUST0128,Pooja Singh,Female,67,Bhubaneswar,Odisha,East,Silver,2024-07-11
+CUST0129,Priya Singh,Male,37,Jaipur,Rajasthan,North,Silver,2022-05-04
+CUST0130,Ananya Reddy,Other,31,Bhubaneswar,Odisha,East,Regular,2022-06-16
+CUST0131,Kavya Patel,Other,22,Bengaluru,Karnataka,South,Regular,2024-04-16
+CUST0132,Pooja Gupta,Male,20,Jaipur,Rajasthan,North,Regular,2025-12-18
+CUST0133,Karthik Iyer,Other,32,Mumbai,Maharashtra,West,Gold,2025-07-04
+CUST0134,Arjun Nair,Female,52,Bhubaneswar,Odisha,East,Regular,2022-11-02
+CUST0135,Rohan Iyer,Female,28,Mumbai,Maharashtra,West,Gold,2025-05-03
+CUST0136,Priya Gupta,Female,47,Bhubaneswar,Odisha,East,Silver,2025-12-04
+CUST0137,Vivaan Rao,Other,49,Delhi,Delhi,North,Regular,2025-05-09
+CUST0138,Sneha Joshi,Male,56,Coimbatore,Tamil Nadu,South,Regular,2022-07-07
+CUST0139,Vikram Singh,Female,66,Hyderabad,Telangana,South,Silver,2023-07-06
+CUST0140,Diya Patel,Male,51,Bhubaneswar,Odisha,East,Silver,2023-07-24
+CUST0141,Vikram Nair,Other,49,Bengaluru,Karnataka,South,Platinum,2024-08-20
+CUST0142,Sneha Das,Male,60,Pune,Maharashtra,West,Regular,2022-11-26
+CUST0143,Sneha Joshi,Male,36,Pune,Maharashtra,West,Silver,2024-03-31
+CUST0144,Diya Gupta,Female,38,Kolkata,West Bengal,East,Regular,2022-08-26
+CUST0145,Sanjay Sharma,Other,52,Delhi,Delhi,North,Silver,2022-04-22
+CUST0146,Sanjay Das,Other,66,Hyderabad,Telangana,South,Silver,2024-06-24
+CUST0147,Arjun Kumar,Other,26,Coimbatore,Tamil Nadu,South,Gold,2024-06-16
+CUST0148,Ananya Sharma,Other,56,Jaipur,Rajasthan,North,Gold,2025-12-24
+CUST0149,Priya Rao,Female,53,Bengaluru,Karnataka,South,Regular,2023-04-06
+CUST0150,Karthik Iyer,Other,27,Chennai,Tamil Nadu,South,Silver,2026-01-07
+CUST0151,Sanjay Joshi,Male,44,Mumbai,Maharashtra,West,Gold,2024-08-25
+CUST0152,Karthik Rao,Female,42,Hyderabad,Telangana,South,Regular,2025-05-12
+CUST0153,Rohan Iyer,Male,67,Kolkata,West Bengal,East,Gold,2024-04-29
+CUST0154,Sanjay Kumar,Female,36,Pune,Maharashtra,West,Silver,2025-04-17
+CUST0155,Divya Patel,Male,52,Bhubaneswar,Odisha,East,Silver,2023-11-12
+CUST0156,Aditi Nair,Male,38,Kolkata,West Bengal,East,Gold,2025-11-29
+CUST0157,Vikram Nair,Female,67,Hyderabad,Telangana,South,Regular,2023-10-14
+CUST0158,Rahul Nair,Other,68,Jaipur,Rajasthan,North,Gold,2022-11-08
+CUST0159,Diya Patel,Other,55,Jaipur,Rajasthan,North,Regular,2022-07-25
+CUST0160,Ananya Rao,Male,18,Jaipur,Rajasthan,North,Silver,2024-04-19
+CUST0161,Ishaan Gupta,Male,39,Bengaluru,Karnataka,South,Silver,2024-03-25
+CUST0162,Aditya Menon,Other,42,Chennai,Tamil Nadu,South,Platinum,2025-07-07
+CUST0163,Aditi Sharma,Other,22,Jaipur,Rajasthan,North,Regular,2025-11-02
+CUST0164,Kavya Joshi,Female,45,Mumbai,Maharashtra,West,Platinum,2025-07-21
+CUST0165,Karthik Patel,Other,37,Chennai,Tamil Nadu,South,Gold,2022-04-05
+CUST0166,Diya Kumar,Male,41,Pune,Maharashtra,West,Regular,2023-05-16
+CUST0167,Sneha Singh,Other,68,Kolkata,West Bengal,East,Regular,2022-12-25
+CUST0168,Pooja Nair,Other,61,Chennai,Tamil Nadu,South,Regular,2025-04-09
+CUST0169,Kavya Gupta,Other,34,Bengaluru,Karnataka,South,Silver,2025-09-27
+CUST0170,Karthik Kumar,Other,52,Coimbatore,Tamil Nadu,South,Regular,2024-06-23
+CUST0171,Vikram Kumar,Other,45,Pune,Maharashtra,West,Silver,2024-07-24
+CUST0172,Arjun Nair,Male,24,Mumbai,Maharashtra,West,Regular,2025-03-17
+CUST0173,Vikram Kumar,Other,36,Pune,Maharashtra,West,Regular,2025-09-10
+CUST0174,Vivaan Sharma,Other,61,Delhi,Delhi,North,Gold,2022-04-11
+CUST0175,Divya Kumar,Female,56,Bhubaneswar,Odisha,East,Gold,2023-03-25
+CUST0176,Pooja Kumar,Other,66,Hyderabad,Telangana,South,Silver,2025-09-12
+CUST0177,Ananya Menon,Other,20,Bengaluru,Karnataka,South,Regular,2024-06-21
+CUST0178,Vikram Das,Other,26,Coimbatore,Tamil Nadu,South,Regular,2023-08-28
+CUST0179,Sneha Patel,Female,26,Pune,Maharashtra,West,Gold,2024-01-20
+CUST0180,Sanjay Kumar,Female,34,Kolkata,West Bengal,East,Gold,2024-09-13
+CUST0181,Aditya Iyer,Male,22,Mumbai,Maharashtra,West,Regular,2023-04-08
+CUST0182,Aditi Das,Female,68,Delhi,Delhi,North,Regular,2023-06-26
+CUST0183,Ananya Gupta,Male,61,Kolkata,West Bengal,East,Gold,2023-06-21
+CUST0184,Rahul Menon,Male,24,Bhubaneswar,Odisha,East,Silver,2024-08-23
+CUST0185,Pooja Rao,Male,57,Coimbatore,Tamil Nadu,South,Regular,2022-05-10
+CUST0186,Priya Menon,Male,25,Jaipur,Rajasthan,North,Regular,2022-03-18
+CUST0187,Divya Iyer,Female,33,Mumbai,Maharashtra,West,Gold,2022-10-05
+CUST0188,Karthik Das,Other,65,Delhi,Delhi,North,Silver,2025-01-11
+CUST0189,Vikram Joshi,Other,27,Delhi,Delhi,North,Gold,2025-09-03
+CUST0190,Divya Singh,Male,35,Chennai,Tamil Nadu,South,Regular,2024-01-29
+CUST0191,Karthik Gupta,Female,41,Hyderabad,Telangana,South,Regular,2025-11-05
+CUST0192,Aditi Menon,Male,21,Pune,Maharashtra,West,Regular,2023-01-24
+CUST0193,Karthik Iyer,Other,31,Chennai,Tamil Nadu,South,Silver,2025-05-07
+CUST0194,Diya Das,Female,26,Coimbatore,Tamil Nadu,South,Gold,2023-02-25
+CUST0195,Aditi Reddy,Other,31,Chennai,Tamil Nadu,South,Gold,2023-04-23
+CUST0196,Rohan Singh,Female,35,Pune,Maharashtra,West,Gold,2022-10-24
+CUST0197,Aditi Kumar,Female,25,Bengaluru,Karnataka,South,Silver,2022-02-22
+CUST0198,Aarav Das,Female,55,Bengaluru,Karnataka,South,Regular,2022-12-23
+CUST0199,Diya Patel,Other,44,Mumbai,Maharashtra,West,Silver,2022-05-11
+CUST0200,Karthik Das,Other,55,Jaipur,Rajasthan,North,Regular,2024-10-28
