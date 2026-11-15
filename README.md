@@ -1,4 +1,5 @@
 # Retail Store Sales Analysis | Power BI
+![Retail Sales Dashboard](Dashboard.png)
 
 
 ## Project Overview
