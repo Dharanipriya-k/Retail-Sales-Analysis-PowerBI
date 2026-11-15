@@ -1,5 +1,5 @@
 # Retail Store Sales Analysis | Power BI
-![Retail Sales Dashboard](Dashboard.png)
+
 
 ## Project Overview
 This project focuses on analyzing retail store sales data using Microsoft Power BI. The dashboard helps understand sales performance, customer behaviour, product performance and regional sales trends through interactive visualizations.
